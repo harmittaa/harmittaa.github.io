@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Mobile software engineer
 
-You can use the [editor on GitHub](https://github.com/harmittaa/harmittaa.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am a mobile software engineer, currently mainly focusing on Android, but absolutely willing to spend most of my time on either platform. I am passionate about being creative, yet I still try to bring an engineer's perspective into my work: investigating, planning, executing, evaluating.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Projects I've been working on have been published on both on the App Store and Google Play, and are used by tens of thousands of users. My non-work related projects include image processing, machine learning, AR - all on mobile.
+
+I am currently spending my time between my Master's studies in Computer Science in Aalto Univeristy and my work as a mobile software engineer in ePassi Payments Oy.
 
 ### Markdown
 
