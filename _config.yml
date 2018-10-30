@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
 title: Matti Mäki-Kihniä
 description: My resume
-show_downloads: "true"
+show_downloads: "false"
+logo: imgs/profile_picture.png
