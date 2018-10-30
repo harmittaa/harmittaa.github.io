@@ -1,8 +1,8 @@
 ## Mobile software engineer
 
-I am a mobile software engineer, currently mainly focusing on Android, but absolutely willing to spend most of my time on either platform. I am passionate about being creative, yet I still try to bring an engineer's perspective into my work: investigating, planning, executing, evaluating.
+I am currently mainly focused on Android, but absolutely willing to spend my time working on either platform. I am passionate about being creative, yet I still try to bring an engineer's perspective into my work: investigating, planning, executing, evaluating.
 
-Projects I've been working on have been published on both on the App Store and Google Play, and are used by tens of thousands of users. My non-work related projects include image processing, machine learning, AR - all on mobile.
+For both platforms I've worked on projects from scratch, to publishing them for tens of thousands of users to use, and to finally ironing out the bugs. My non-work related projects include image processing, machine learning, AR - all on mobile.
 
 I am currently spending my time between my Master's studies in Computer Science in Aalto Univeristy and my work as a mobile software engineer in ePassi Payments Oy.
 
